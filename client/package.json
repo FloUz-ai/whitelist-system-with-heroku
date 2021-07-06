@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://FloUz-ai.github.io/whitelist-system-with-heroku/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.5.0",
